@@ -1,0 +1,10 @@
+/.idea/
+/venv/
+/YOLOv8_files/models/15-large.pt
+/YOLOv8_files/models/25-large.pt
+/YOLOv8_files/models/33-large.pt
+/YOLOv8_files/models/best-large.pt
+/YOLOv8_files/models/best-tuning-large.pt
+/YOLOv8_files/datasets/cifar10/
+/YOLOv8_files/datasets/cifar10.zip
+/.ipynb_checkpoints/
